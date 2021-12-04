@@ -1,0 +1,7 @@
+D:\Corporate\Nordic Academy\C#\Demos\StructureAndEnum\StructureAndEnumDemo\StructureAndEnumDemo\bin\Debug\StructureAndEnumDemo.exe.config
+D:\Corporate\Nordic Academy\C#\Demos\StructureAndEnum\StructureAndEnumDemo\StructureAndEnumDemo\bin\Debug\StructureAndEnumDemo.exe
+D:\Corporate\Nordic Academy\C#\Demos\StructureAndEnum\StructureAndEnumDemo\StructureAndEnumDemo\bin\Debug\StructureAndEnumDemo.pdb
+D:\Corporate\Nordic Academy\C#\Demos\StructureAndEnum\StructureAndEnumDemo\StructureAndEnumDemo\obj\Debug\StructureAndEnumDemo.csproj.AssemblyReference.cache
+D:\Corporate\Nordic Academy\C#\Demos\StructureAndEnum\StructureAndEnumDemo\StructureAndEnumDemo\obj\Debug\StructureAndEnumDemo.csproj.CoreCompileInputs.cache
+D:\Corporate\Nordic Academy\C#\Demos\StructureAndEnum\StructureAndEnumDemo\StructureAndEnumDemo\obj\Debug\StructureAndEnumDemo.exe
+D:\Corporate\Nordic Academy\C#\Demos\StructureAndEnum\StructureAndEnumDemo\StructureAndEnumDemo\obj\Debug\StructureAndEnumDemo.pdb
